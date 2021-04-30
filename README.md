@@ -6,4 +6,4 @@ If you wanna learn more about it, you should visit my eportfolio :
 
 https://justine-eportfolio.netlify.app/
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtheriasAI&layout=compact&langs_count=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://wakapi-stats.thomaslacaze.fr/api/v1/languages?url=https://stats.arsenelapostolet.fr/api/v1/users/Ombrelin/stats/any" width="400" height="400">|
+![Metrics](https://metrics.lecoq.io/EtheriasAI?template=classic&activity=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FParis&config.animated=true)
